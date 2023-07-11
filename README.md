@@ -5,10 +5,10 @@ Este é um pequeno microsserviço desenvolvido em Java com o framework Spring Bo
 # Configuração
 Certifique-se de ter instalado:
 
--Java JDK 8 ou superior
--Maven
--Um servidor SMTP válido (por exemplo, Gmail)
--MySQL
+Java JDK 8 ou superior<br>
+Maven<br>
+Um servidor SMTP válido (por exemplo, Gmail)<br>
+MySQL
 
 # Instalação
 Clone este repositório para o seu ambiente local:
